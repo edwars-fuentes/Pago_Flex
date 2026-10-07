@@ -39,6 +39,7 @@ fun PagoFlexTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
+        typography = PagoFlexTypography,
         content = content
     )
 }
