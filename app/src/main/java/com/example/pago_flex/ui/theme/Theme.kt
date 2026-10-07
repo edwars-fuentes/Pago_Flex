@@ -1,4 +1,4 @@
-package com.pagoflex.app.ui.theme
+package com.example.pago_flex.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -42,3 +42,4 @@ fun PagoFlexTheme(
         content = content
     )
 }
+
